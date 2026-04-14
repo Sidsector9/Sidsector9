@@ -8,7 +8,7 @@
 <ul>
   <li><a href="https://woocommerce.com/products/snapchat/">Snapchat for WooCommerce</a><br /><i>To reach a highly engaged audience and convert shoppers into customers. <a href="https://github.com/woocommerce/snapchat-for-woocommerce">(Github repository)</i></a></li>
   <li><a href="https://woocommerce.com/products/reddit/">Reddit for WooCommerce</a><br /><i>To connect a WooComemrce store to Reddit and launch ad campaigns to 450M+ weekly redditors engaged in genuine conversations across millions of topics. <a href="https://github.com/woocommerce/reddit-for-woocommerce">(Github repository)</i></a></li>
-  <li><a href="https://classifaiplugin.com/">ClassifAI</a><br /><i>Supercharges Engagement & Content Workflows in WordPress with AI. <a href="https://github.com/10up/classifai/releases/tag/3.0.0">(Github repository)</i></a></li>
+  <li><a href="https://classifaiplugin.com/">ClassifAI 3.0</a><br /><i>Supercharges Engagement & Content Workflows in WordPress with AI. <a href="https://github.com/10up/classifai/releases/tag/3.0.0">(Github repository)</i></a></li>
   <li><a href="https://wordpress.org/plugins/restricted-site-access/">Restricted Site Access</a><br /><i>Limit access to visitors who are logged in or allowed by IP addresses. <a href="https://github.com/10up/restricted-site-access">(Github repository)</i></a></li>
 </ul>
 
