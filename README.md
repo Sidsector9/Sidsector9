@@ -50,27 +50,27 @@
   <tbody>
       <tr>
         <td><a target="_blank" href="https://github.com/10up/safe-redirect-manager/pull/336"><strong>Improve redirect loop detection performance</strong></a></td>
-        <td>Fix</td>
+        <td>Performance Improvement</td>
       </tr>
       <tr>
-        <td><a target="_blank" href="https://github.com/10up/classifai/pull/611"><strong>Refactor ClassifAI plugin architecture</strong></a></td>
-        <td>Refactor, Feature</td>
+        <td><a target="_blank" href="https://github.com/woocommerce/reddit-for-woocommerce/pull/10"><strong>Implement Onboarding screen using ReactJS, and REST routes</strong></a></td>
+        <td>Feature, Onboarding</td>
       </tr>
       <tr>
-        <td><a target="_blank" href="https://github.com/woocommerce/snapchat-for-woocommerce/pull/6"><strong>Add a generic File Exporter</strong></a></td>
-        <td>Feature</td>
+        <td><a target="_blank" href="https://github.com/10up/classifai/pull/403"><strong>Add Text to speech capability using Microsoft Azure AI Provider</strong></a></td>
+        <td>Feature, AI integration</td>
       </tr>
       <tr>
-        <td><a target="_blank" href="https://github.com/10up/block-components/pull/110"><strong>Add a Repeater Component to Block Components</strong></a></td>
-        <td>Feature</td>
+        <td><a target="_blank" href="https://github.com/10up/classifai/pull/532"><strong>Add ability to resize post content using OpenAI's ChatGPT Provider</strong></a></td>
+        <td>Feature, AI integration, Editorial Workflow</td>
       </tr>
       <tr>
-        <td><a target="_blank" href="https://github.com/woocommerce/reddit-for-woocommerce/pull/18"><strong>PHP Unit tests for Reddit for WooCommerce</strong></a></td>
-        <td>Testing</td>
+        <td><a target="_blank" href="https://github.com/woocommerce/snapchat-for-woocommerce/pull/6"><strong>Implement Action Scheduler based File exporter</strong></a></td>
+        <td>Feature, Tools</td>
       </tr>
       <tr>
-        <td><a target="_blank" href="https://github.com/woocommerce/snapchat-for-woocommerce/pull/13"><strong>Playwright E2E tests for Snapchat WooCommerce</strong></a></td>
-        <td>Testing</td>
+        <td><a target="_blank" href="https://github.com/woocommerce/snapchat-for-woocommerce/pull/13"><strong>Implement End-to-End testing using Playwright</strong></a></td>
+        <td>End-to-End testing, Playwright</td>
       </tr>
   </tbody>
 </table>
